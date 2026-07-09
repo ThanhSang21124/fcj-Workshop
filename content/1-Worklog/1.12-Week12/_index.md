@@ -11,13 +11,13 @@ pre: " <b> 1.12. </b> "
 
 ### Tasks Completed
 
-| Day | Task | Start Date | Completion Date | Reference |
-|------|------|------|------|------|
-| Monday | Review completed workshops | 06/07/2026 | 06/07/2026 | https://cloudjourney.awsstudygroup.com |
-| Tuesday | Organize project documentation | 07/07/2026 | 07/07/2026 | https://cloudjourney.awsstudygroup.com |
-| Wednesday | Collect screenshots and evidence | 08/07/2026 | 08/07/2026 | https://cloudjourney.awsstudygroup.com |
-| Thursday | Prepare final report | 09/07/2026 | 09/07/2026 | https://cloudjourney.awsstudygroup.com |
-| Friday | Final review and submission | 09/07/2026 | 10/07/2026 | https://cloudjourney.awsstudygroup.com |
+| Day | Task | Start Date | Completion Date | 
+|------|------|------|------|
+| Monday | Review completed workshops | 06/07/2026 | 06/07/2026 | 
+| Tuesday | Organize project documentation | 07/07/2026 | 07/07/2026 |
+| Wednesday | Collect screenshots and evidence | 08/07/2026 | 08/07/2026 |
+| Thursday | Prepare final report | 09/07/2026 | 09/07/2026 |
+| Friday | Final review and submission | 09/07/2026 | 10/07/2026 |
 
 ### Achievements
 - Completed the AWS learning journey.
