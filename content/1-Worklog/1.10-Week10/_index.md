@@ -13,11 +13,11 @@ pre: " <b> 1.10. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference |
 |------|------|------|------|------|
-| Monday | Introduction to CloudWatch | 22/06/2026 | 22/06/2026 | https://cloudjourney.awsstudygroup.com |
-| Tuesday | Collect Logs and Metrics | 23/06/2026 | 23/06/2026 | https://cloudjourney.awsstudygroup.com |
-| Wednesday | Create Dashboards | 24/06/2026 | 24/06/2026 | https://cloudjourney.awsstudygroup.com |
-| Thursday | Configure CloudWatch Alarms | 25/06/2026 | 25/06/2026 | https://cloudjourney.awsstudygroup.com |
-| Friday | Analyze monitoring data | 26/06/2026 | 26/06/2026 | https://cloudjourney.awsstudygroup.com |
+| Monday | Introduction to CloudWatch | 22/06/2026 | 22/06/2026 | https://000008.awsstudygroup.com |
+| Tuesday | Collect Logs and Metrics | 23/06/2026 | 23/06/2026 | https://000008.awsstudygroup.com |
+| Wednesday | Create Dashboards | 24/06/2026 | 24/06/2026 | https://000008.awsstudygroup.com |
+| Thursday | Configure CloudWatch Alarms | 25/06/2026 | 25/06/2026 | https://000008.awsstudygroup.com |
+| Friday | Analyze monitoring data | 26/06/2026 | 26/06/2026 | https://000008.awsstudygroup.com |
 
 ### Achievements
 - Implemented monitoring solutions.

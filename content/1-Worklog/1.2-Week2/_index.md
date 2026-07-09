@@ -13,11 +13,11 @@ pre: " <b> 1.2. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference |
 |------|------|------|------|------|
-| Monday | Introduction to AWS IAM | 27/04/2026 | 27/04/2026 | https://cloudjourney.awsstudygroup.com |
-| Tuesday | Learn IAM Users and Groups | 28/04/2026 | 28/04/2026 | https://cloudjourney.awsstudygroup.com |
-| Wednesday | Create IAM Users | 29/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
-| Thursday | Learn IAM Policies | 30/04/2026 | 30/04/2026 | https://cloudjourney.awsstudygroup.com |
-| Friday | Configure Multi-Factor Authentication (MFA) | 01/05/2026 | 01/05/2026 | https://cloudjourney.awsstudygroup.com |
+| Monday | Introduction to AWS IAM | 27/04/2026 | 27/04/2026 | https://000002.awsstudygroup.com |
+| Tuesday | Learn IAM Users and Groups | 28/04/2026 | 28/04/2026 | https://000002.awsstudygroup.com |
+| Wednesday | Create IAM Users | 29/04/2026 | 29/04/2026 | https://000002.awsstudygroup.com |
+| Thursday | Learn IAM Policies | 30/04/2026 | 30/04/2026 | https://000002.awsstudygroup.com |
+| Friday | Configure Multi-Factor Authentication (MFA) | 01/05/2026 | 01/05/2026 | https://000002.awsstudygroup.com |
 
 ### Achievements
 - Created IAM users and groups.

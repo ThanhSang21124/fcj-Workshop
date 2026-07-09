@@ -15,11 +15,11 @@ pre: " <b> 1.1. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference |
 |------|------|------|------|------|
-| Monday | Introduction to Cloud Computing and AWS | 20/04/2026 | 20/04/2026 | https://cloudjourney.awsstudygroup.com |
-| Tuesday | Create an AWS Account | 21/04/2026 | 21/04/2026 | https://cloudjourney.awsstudygroup.com |
-| Wednesday | Explore AWS Management Console | 22/04/2026 | 22/04/2026 | https://cloudjourney.awsstudygroup.com |
-| Thursday | Learn AWS Global Infrastructure | 23/04/2026 | 23/04/2026 | https://cloudjourney.awsstudygroup.com |
-| Friday | Practice with basic AWS services | 24/04/2026 | 24/04/2026 | https://cloudjourney.awsstudygroup.com |
+| Monday | Introduction to Cloud Computing and AWS | 20/04/2026 | 20/04/2026 | https://cloudjourney.awsstudygroup.com/1-explore/ |
+| Tuesday | Create an AWS Account | 21/04/2026 | 21/04/2026 | https://000001.awsstudygroup.com |
+| Wednesday | Explore AWS Management Console | 22/04/2026 | 22/04/2026 | https://000001.awsstudygroup.com |
+| Thursday | Learn AWS Global Infrastructure | 23/04/2026 | 23/04/2026 | https://cloudjourney.awsstudygroup.com/1-explore/ |
+| Friday | Practice with basic AWS services | 24/04/2026 | 24/04/2026 | https://cloudjourney.awsstudygroup.com/1-explore/ |
 
 ### Achievements
 - Understood the fundamentals of cloud computing.

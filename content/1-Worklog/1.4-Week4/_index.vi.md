@@ -12,11 +12,11 @@ pre: " <b> 1.4. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |------|-----------|-------------|----------------|---------------|
-| 2 | Tìm hiểu Amazon S3 | 11/05/2026 | 11/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 | Tạo S3 Bucket | 12/05/2026 | 12/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 4 | Upload dữ liệu | 13/05/2026 | 13/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 5 | Bucket Policy | 14/05/2026 | 14/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 6 | Versioning và Lifecycle | 15/05/2026 | 15/05/2026 | https://cloudjourney.awsstudygroup.com |
+| 2 | Tìm hiểu Amazon S3 | 11/05/2026 | 11/05/2026 | https://000057.awsstudygroup.com |
+| 3 | Tạo S3 Bucket | 12/05/2026 | 12/05/2026 | https://000057.awsstudygroup.com |
+| 4 | Upload dữ liệu | 13/05/2026 | 13/05/2026 | https://000057.awsstudygroup.com |
+| 5 | Bucket Policy | 14/05/2026 | 14/05/2026 | https://000057.awsstudygroup.com |
+| 6 | Versioning và Lifecycle | 15/05/2026 | 15/05/2026 | https://000057.awsstudygroup.com |
 
 ### Kết quả đạt được:
 * Quản lý dữ liệu bằng Amazon S3.

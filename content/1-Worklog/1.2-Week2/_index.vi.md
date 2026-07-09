@@ -13,11 +13,11 @@ pre: " <b> 1.2. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |------|-----------|-------------|----------------|---------------|
-| 2 | Tìm hiểu IAM | 27/04/2026 | 27/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 | Tìm hiểu User và Group | 28/04/2026 | 28/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 4 | Tạo IAM User | 29/04/2026 | 29/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 5 | Tìm hiểu IAM Policy | 30/04/2026 | 30/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 6 | Cấu hình MFA | 01/05/2026 | 01/05/2026 | https://cloudjourney.awsstudygroup.com |
+| 2 | Tìm hiểu IAM | 27/04/2026 | 27/04/2026 | https://000002.awsstudygroup.com |
+| 3 | Tìm hiểu User và Group | 28/04/2026 | 28/04/2026 | https://000002.awsstudygroup.com |
+| 4 | Tạo IAM User | 29/04/2026 | 29/04/2026 | https://000002.awsstudygroup.com |
+| 5 | Tìm hiểu IAM Policy | 30/04/2026 | 30/04/2026 | https://000002.awsstudygroup.com |
+| 6 | Cấu hình MFA | 01/05/2026 | 01/05/2026 | https://000002.awsstudygroup.com |
 
 ### Kết quả đạt được:
 * Tạo thành công IAM User.

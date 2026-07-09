@@ -12,11 +12,11 @@ pre: " <b> 1.3. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |------|-----------|-------------|----------------|---------------|
-| 2 | Tìm hiểu Amazon EC2 | 04/05/2026 | 04/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 | Khởi tạo EC2 Instance | 05/05/2026 | 05/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 4 | Kết nối SSH | 06/05/2026 | 06/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 5 | Cấu hình Security Group | 07/05/2026 | 07/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 6 | Cài đặt Web Server | 08/05/2026 | 08/05/2026 | https://cloudjourney.awsstudygroup.com |
+| 2 | Tìm hiểu Amazon EC2 | 04/05/2026 | 04/05/2026 | https://000004.awsstudygroup.com |
+| 3 | Khởi tạo EC2 Instance | 05/05/2026 | 05/05/2026 | https://000004.awsstudygroup.com |
+| 4 | Kết nối SSH | 06/05/2026 | 06/05/2026 | https://000004.awsstudygroup.com |
+| 5 | Cấu hình Security Group | 07/05/2026 | 07/05/2026 | https://000004.awsstudygroup.com |
+| 6 | Cài đặt Web Server | 08/05/2026 | 08/05/2026 | https://000004.awsstudygroup.com |
 
 ### Kết quả đạt được:
 * Tạo thành công EC2 Instance.

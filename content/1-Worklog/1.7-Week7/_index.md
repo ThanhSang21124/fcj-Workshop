@@ -13,11 +13,11 @@ pre: " <b> 1.7. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference |
 |------|------|------|------|------|
-| Monday | Introduction to API Gateway | 01/06/2026 | 01/06/2026 | https://cloudjourney.awsstudygroup.com |
-| Tuesday | Create REST APIs | 02/06/2026 | 02/06/2026 | https://cloudjourney.awsstudygroup.com |
-| Wednesday | Integrate API Gateway with Lambda | 03/06/2026 | 03/06/2026 | https://cloudjourney.awsstudygroup.com |
-| Thursday | Test APIs using Postman | 04/06/2026 | 04/06/2026 | https://cloudjourney.awsstudygroup.com |
-| Friday | Complete API deployment | 05/06/2026 | 05/06/2026 | https://cloudjourney.awsstudygroup.com |
+| Monday | Introduction to API Gateway | 01/06/2026 | 01/06/2026 | https://000079.awsstudygroup.com/ |
+| Tuesday | Create REST APIs | 02/06/2026 | 02/06/2026 | https://000079.awsstudygroup.com/ |
+| Wednesday | Integrate API Gateway with Lambda | 03/06/2026 | 03/06/2026 | https://000079.awsstudygroup.com/ |
+| Thursday | Test APIs using Postman | 04/06/2026 | 04/06/2026 | https://000079.awsstudygroup.com/ |
+| Friday | Complete API deployment | 05/06/2026 | 05/06/2026 | https://000079.awsstudygroup.com/ |
 
 ### Achievements
 - Developed a serverless API.

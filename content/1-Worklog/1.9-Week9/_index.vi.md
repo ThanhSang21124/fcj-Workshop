@@ -12,11 +12,11 @@ pre: " <b> 1.9. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |------|-----------|-------------|----------------|---------------|
-| 2 | Tìm hiểu SNS | 15/06/2026 | 15/06/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 | Tìm hiểu SQS | 16/06/2026 | 16/06/2026 | https://cloudjourney.awsstudygroup.com |
-| 4 | Tạo Queue | 17/06/2026 | 17/06/2026 | https://cloudjourney.awsstudygroup.com |
-| 5 | Gửi và nhận Message | 18/06/2026 | 18/06/2026 | https://cloudjourney.awsstudygroup.com |
-| 6 | Kiểm thử hệ thống | 19/06/2026 | 19/06/2026 | https://cloudjourney.awsstudygroup.com |
+| 2 | Tìm hiểu SNS | 15/06/2026 | 15/06/2026 | https://000083.awsstudygroup.com/ |
+| 3 | Tìm hiểu SQS | 16/06/2026 | 16/06/2026 | https://000083.awsstudygroup.com/ |
+| 4 | Tạo Queue | 17/06/2026 | 17/06/2026 | https://000083.awsstudygroup.com/ |
+| 5 | Gửi và nhận Message | 18/06/2026 | 18/06/2026 | https://000083.awsstudygroup.com/ |
+| 6 | Kiểm thử hệ thống | 19/06/2026 | 19/06/2026 | https://000083.awsstudygroup.com/ |
 
 ### Kết quả đạt được:
 * Hiểu kiến trúc Event Driven.

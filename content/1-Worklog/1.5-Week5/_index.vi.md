@@ -12,11 +12,11 @@ pre: " <b> 1.5. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |------|-----------|-------------|----------------|---------------|
-| 2 | Tìm hiểu Amazon RDS | 18/05/2026 | 18/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 | Tạo Database MySQL | 19/05/2026 | 19/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 4 | Tìm hiểu DynamoDB | 20/05/2026 | 20/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 5 | So sánh SQL và NoSQL | 21/05/2026 | 21/05/2026 | https://cloudjourney.awsstudygroup.com |
-| 6 | Thực hành CRUD | 22/05/2026 | 22/05/2026 | https://cloudjourney.awsstudygroup.com |
+| 2 | Tìm hiểu Amazon RDS | 18/05/2026 | 18/05/2026 | https://000005.awsstudygroup.com |
+| 3 | Tạo Database MySQL | 19/05/2026 | 19/05/2026 | https://000005.awsstudygroup.com |
+| 4 | Tìm hiểu DynamoDB | 20/05/2026 | 20/05/2026 | https://000060.awsstudygroup.com |
+| 5 | So sánh SQL và NoSQL | 21/05/2026 | 21/05/2026 | https://000060.awsstudygroup.com |
+| 6 | Thực hành CRUD | 22/05/2026 | 22/05/2026 | https://000060.awsstudygroup.com |
 
 ### Kết quả đạt được:
 * Hiểu các dịch vụ cơ sở dữ liệu AWS.

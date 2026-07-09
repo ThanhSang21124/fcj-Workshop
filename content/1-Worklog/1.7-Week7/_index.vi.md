@@ -12,11 +12,11 @@ pre: " <b> 1.7. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |------|-----------|-------------|----------------|---------------|
-| 2 | Tìm hiểu API Gateway | 01/06/2026 | 01/06/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 | Tạo REST API | 02/06/2026 | 02/06/2026 | https://cloudjourney.awsstudygroup.com |
-| 4 | Kết nối Lambda | 03/06/2026 | 03/06/2026 | https://cloudjourney.awsstudygroup.com |
-| 5 | Kiểm thử bằng Postman | 04/06/2026 | 04/06/2026 | https://cloudjourney.awsstudygroup.com |
-| 6 | Hoàn thiện API | 05/06/2026 | 05/06/2026 | https://cloudjourney.awsstudygroup.com |
+| 2 | Tìm hiểu API Gateway | 01/06/2026 | 01/06/2026 | https://000079.awsstudygroup.com/ |
+| 3 | Tạo REST API | 02/06/2026 | 02/06/2026 | https://000079.awsstudygroup.com/ |
+| 4 | Kết nối Lambda | 03/06/2026 | 03/06/2026 | https://000079.awsstudygroup.com/ |
+| 5 | Kiểm thử bằng Postman | 04/06/2026 | 04/06/2026 | https://000079.awsstudygroup.com/ |
+| 6 | Hoàn thiện API | 05/06/2026 | 05/06/2026 | https://000079.awsstudygroup.com/ |
 
 ### Kết quả đạt được:
 * Triển khai API Serverless thành công.

@@ -14,11 +14,11 @@ pre: " <b> 1.1. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |------|-----------|-------------|----------------|---------------|
-| 2 | Tìm hiểu Cloud Computing và AWS | 20/04/2026 | 20/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 3 | Tạo AWS Account | 21/04/2026 | 21/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 4 | Làm quen AWS Management Console | 22/04/2026 | 22/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 5 | Tìm hiểu Global Infrastructure | 23/04/2026 | 23/04/2026 | https://cloudjourney.awsstudygroup.com |
-| 6 | Thực hành các dịch vụ cơ bản | 24/04/2026 | 24/04/2026 | https://cloudjourney.awsstudygroup.com |
+| 2 | Tìm hiểu Cloud Computing và AWS | 20/04/2026 | 20/04/2026 | https://cloudjourney.awsstudygroup.com/1-explore/ |
+| 3 | Tạo AWS Account | 21/04/2026 | 21/04/2026 | https://000001.awsstudygroup.com |
+| 4 | Làm quen AWS Management Console | 22/04/2026 | 22/04/2026 | https://000001.awsstudygroup.com |
+| 5 | Tìm hiểu Global Infrastructure | 23/04/2026 | 23/04/2026 | https://cloudjourney.awsstudygroup.com/1-explore/ |
+| 6 | Thực hành các dịch vụ cơ bản | 24/04/2026 | 24/04/2026 | https://cloudjourney.awsstudygroup.com/1-explore/ |
 
 ### Kết quả đạt được:
 * Hiểu khái niệm điện toán đám mây.
