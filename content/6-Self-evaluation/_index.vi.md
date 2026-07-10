@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại **Amazon Web Services (AWS)** từ **17/04/2026** đến **10/07/2026**, tôi đã có cơ hội học tập, nghiên cứu và áp dụng những kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế. Đây là khoảng thời gian giúp tôi hiểu rõ hơn về quy trình phát triển phần mềm trên nền tảng điện toán đám mây cũng như nâng cao khả năng tự học và giải quyết vấn đề.
+Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** từ **17/04/2026** đến **10/07/2026**, tôi đã có cơ hội học tập, nghiên cứu và áp dụng những kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế. Đây là khoảng thời gian giúp tôi hiểu rõ hơn về quy trình phát triển phần mềm trên nền tảng điện toán đám mây cũng như nâng cao khả năng tự học và giải quyết vấn đề.
 
 Trong kỳ thực tập, tôi đã hoàn thành các **AWS Workshops**, nghiên cứu và sử dụng nhiều dịch vụ như **Amazon Bedrock, AWS Lambda, Amazon API Gateway, Amazon Cognito, Amazon DynamoDB, Amazon S3, Amazon CloudWatch** và các dịch vụ Serverless khác. Bên cạnh đó, tôi cũng tham gia viết các bài blog kỹ thuật trên **AWS Study Group** nhằm chia sẻ kiến thức về các dịch vụ AWS và các tính năng mới của nền tảng.
 

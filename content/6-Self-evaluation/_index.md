@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **Amazon Web Services (AWS)** from **April 17, 2026** to **July 10, 2026**, I had the opportunity to learn, practice, and apply the knowledge acquired at university in a professional working environment. This internship allowed me to gain a deeper understanding of cloud computing, serverless application development, and modern software engineering practices.
+During my internship at **Công ty TNHH Amazon Web Services Viet Nam (AWS)** from **April 17, 2026** to **July 10, 2026**, I had the opportunity to learn, practice, and apply the knowledge acquired at university in a professional working environment. This internship allowed me to gain a deeper understanding of cloud computing, serverless application development, and modern software engineering practices.
 
 Throughout the internship, I successfully completed several AWS workshops and gained hands-on experience with various AWS services, including **Amazon Bedrock, AWS Lambda, Amazon API Gateway, Amazon Cognito, Amazon DynamoDB, Amazon S3, Amazon CloudWatch**, and other serverless technologies. In addition, I published technical blog posts on the **AWS Study Group** to share my learning experience and knowledge about AWS services and newly released features.
 

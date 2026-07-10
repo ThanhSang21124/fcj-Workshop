@@ -20,6 +20,8 @@ chapter: false
 
 &emsp; **Major:** Information Technology
 
+&emsp; **Specialization:** Software Engineering
+
 &emsp; **Class:** 22DTHD8
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited

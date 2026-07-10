@@ -1,235 +1,238 @@
 ---
-
-title: "Event 2"
+title: "Event 1"
 date: 2026-05-24
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
-----------------------
+---
 
-# Reflection Report: AWS Vietnam Community Day 2026
+# Reflection on "AWS Vietnam Community Day 2026"
 
-### Event Objectives
+### Objectives
 
-* Learn about the latest trends in AI, GenAI, Agentic AI, and Cloud Computing.
-* Gain insights into real-world AI implementations in enterprises.
-* Explore Multi-Agent architectures and AWS solutions for AI workloads.
-* Understand security, guardrails, and compliance in modern AI systems.
-* Connect with developers, architects, and students who are passionate about technology.
+- Stay updated with the latest trends in Artificial Intelligence (AI), Generative AI, Agentic AI, and Cloud Computing.
+- Learn how enterprise-grade AI systems are designed and deployed in production environments.
+- Explore Multi-Agent architectures and AWS solutions for AI workloads.
+- Understand security, guardrails, and compliance considerations for modern AI applications.
+- Connect with developers, solution architects, and students who are passionate about cloud technologies.
 
 ### Speakers
 
-* **Pham Ng Hai Anh** – AWS Community Builder
-* **Nguyen Tuan Thinh** – DevOps Engineer
-* **Tinh Truong** – Platform Engineer, GoTymeX
-* **Vy Lam** – Senior Business Systems Analyst, VPBank
-* **Duc Dao** – Solution Architect, Cloud Kinetics
-* **UTMorpho Team** – Hackathon Project Team
+- **Pham Ng Hai Anh** – AWS Community Builder
+- **Nguyen Tuan Thinh** – DevOps Engineer
+- **Tinh Truong** – Platform Engineer, GoTymeX
+- **Vy Lam** – Senior Business Systems Analyst, VPBank
+- **Duc Dao** – Solution Architect, Cloud Kinetics
+- **UTMorpho Team** – Hackathon Project Team
 
-### Highlights
+### Key Sessions
 
-#### 1. Amazon Q Business – Agentic AI Assistant for Enterprises
+#### 1. Amazon Quick Suite – An Agentic AI Assistant for Enterprises
 
 **Speaker:** Pham Ng Hai Anh – AWS Community Builder
 
-This session introduced Amazon Q, a unified Agentic AI platform designed to help business users work more efficiently. Instead of manually gathering information from multiple sources, Amazon Q can:
+The session introduced **Amazon Quick**, a unified Agentic AI platform that helps business users improve productivity. Instead of collecting information manually from multiple sources, Amazon Quick provides:
 
-* Connect to more than 40 data connectors, files, and databases.
-* Utilize Amazon Bedrock models, web search, and thousands of actions.
-* Automatically generate meeting summaries, send emails, schedule meetings, analyze data, and create dashboards.
+- Integration with more than 40 data connectors, file uploads, and databases.
+- Support for Amazon Bedrock foundation models, web search, and thousands of available actions.
+- Automation for meeting minutes, email generation, meeting scheduling, data analysis, and dashboard creation.
 
 #### 2. Amazon CloudFront – Foundation from Edge to Origin
 
 **Speaker:** Nguyen Tuan Thinh – DevOps Engineer
 
-The presentation explored how Amazon CloudFront serves as a foundation for performance, security, and cost optimization.
+This presentation explored how **Amazon CloudFront** serves as the foundation for performance optimization, security, and cost reduction.
 
-* Reduce costs related to data transfer, load balancing, and EC2 workloads.
-* Improve security through Origin Cloaking, VPC Private Origin, OAC, Mutual TLS, Signed URLs, and Geo-restriction.
-* Enhance performance with HTTP/3 (QUIC), multi-layer caching, Origin Shield, and HTTP compression.
+Key highlights included:
+
+- Reducing costs related to data transfer, load balancers, and EC2 workloads.
+- Enhancing security through Origin Cloaking, VPC Private Origin, Origin Access Control (OAC), Mutual TLS, Signed URLs, and Geo Restriction.
+- Improving performance with HTTP/3 (QUIC), multi-layer caching, Origin Shield, and HTTP compression.
 
 #### 3. Context Is Everything – Making AI Truly Effective
 
 **Speaker:** Tinh Truong – Platform Engineer, GoTymeX
 
-This was one of the most insightful sessions about using AI effectively.
+This was one of the most impressive presentations, emphasizing that effective AI usage depends on high-quality context rather than simply providing more information.
 
 Key takeaways included:
 
-* Context quality is more important than context quantity.
-* Common mistakes when prompting AI.
-* A practical framework consisting of:
+- **Context quality is more important than context quantity.**
+- Common mistakes when prompting AI systems.
+- A practical framework consisting of:
+  - Goal
+  - Relevant Information
+  - Constraints
+  - Success Criteria
+- Future AI evolution from **Prompt Engineering** to **Context Engineering** and ultimately **AI Memory (Second AI Brain).**
 
-  * Goal
-  * Relevant Information
-  * Constraints
-  * Success Criteria
-* The future evolution of AI from Prompt → Context → Memory (Second AI Brain).
+#### 4. Enterprise-Grade Multi-Agent Systems
 
-#### 4. Enterprise-Grade Multi-Agent System
+This presentation introduced a **Multi-Agent AI Architecture** designed for **startup credit scoring** in the financial sector.
 
-This presentation introduced a Multi-Agent AI System designed for Startup Credit Scoring in the financial sector.
+##### Challenges of Traditional Systems
 
-##### Challenges in Traditional Systems
+Startup companies often lack:
 
-* Startups often lack:
+- Credit history
+- Long-term financial statements
+- Clear collateral
 
-  * Credit history
-  * Long-term financial statements
-  * Clear collateral
-* Data is often unstructured, multidimensional, and rapidly changing.
+In addition, available information is usually unstructured, dynamic, and comes from multiple sources.
 
 ##### Multi-Agent Architecture
 
-The system consists of specialized agents:
+The system consists of specialized AI agents, including:
 
-* Financial Analyst
-* Market Analyst
-* Team Evaluator
-* Risk Assessor
-* Compliance Agent
+- Financial Analyst
+- Market Analyst
+- Team Evaluator
+- Risk Assessor
+- Compliance Agent
 
 ##### Benefits of Multi-Agent Systems
 
-* Domain specialization
-* Parallel processing
-* Better auditability and traceability
-* Higher fault tolerance than single-agent systems
-* Easier scalability
+- Domain specialization
+- Parallel processing
+- Better auditability and traceability
+- Higher fault tolerance than single-agent architectures
+- Easier scalability and maintainability
 
-#### 5. Enterprise AI & Security + LLM Non-Determinism
+#### 5. Enterprise AI, Security, and LLM Non-Determinism
 
-**Speaker:** Duc Dao and other presenters
+**Speakers:** Duc Dao and other presenters
 
-The session emphasized that enterprise AI systems must be:
+This session emphasized that enterprise AI systems must not only be intelligent but also:
 
-* Secure
-* Reliable
-* Scalable
-* Compliant
+- Secure
+- Reliable
+- Scalable
+- Compliant
 
-It also explained why Large Language Models can remain non-deterministic even when `temperature = 0`.
+The speakers also explained why Large Language Models remain **non-deterministic**, even when `temperature = 0`.
 
 ##### Main Causes
 
-* Floating-point arithmetic on GPUs
-* Parallel execution order
-* Inference batching by providers
+- Floating-point arithmetic on GPUs
+- Parallel execution order
+- Provider-side inference batching
 
 ##### Mitigation Strategies
 
-* Structured outputs
-* Majority voting
-* Ensemble approaches
-* Thorough testing
+- Structured outputs
+- Majority voting
+- Ensemble methods
+- Comprehensive testing
 
 #### 6. Hackathon Project – UTMorpho
 
-This session showcased an AI UI Generator project developed during the LotusHacks Hackathon.
+The final presentation introduced **UTMorpho**, an AI-powered UI Generator developed during the LotusHacks Hackathon.
 
-##### Main Idea
+##### Main Features
 
-The AI UI Generator allows users to:
+- Generate user interfaces directly from prompts.
+- Edit interfaces interactively.
+- Reduce repeated prompting.
+- Maintain design consistency throughout multiple revisions.
 
-* Generate UI from prompts
-* Edit interfaces directly
-* Avoid repeated prompting
-* Maintain consistency across modifications
+##### Challenges
 
-##### Challenges Faced
-
-* Token limitations
-* Burnout during the Hackathon
-* AI overgeneration
-* Time pressure
+- Token limitations
+- Hackathon burnout
+- AI over-generation
+- Tight development deadlines
 
 ##### Lessons Learned
 
-* Team chemistry is extremely important.
-* Real frustrations often inspire real solutions.
-* AI should be treated as a teammate rather than just a tool.
+- Team chemistry is critical to project success.
+- Real frustrations often inspire the best ideas.
+- AI should be treated as a collaborative teammate rather than merely a tool.
 
-### What I Learned
+### Key Takeaways
 
-#### Architecture Mindset
+#### Architectural Thinking
 
-* Multi-agent systems are suitable for complex enterprise applications.
-* Context Engineering is a critical skill in the AI era.
-* Security and compliance should be considered from the beginning.
-* CloudFront provides a strong foundation for performance and cost optimization.
+- Multi-Agent systems are well suited for complex enterprise applications.
+- Context Engineering is becoming an essential skill in the AI era.
+- Security and compliance should be integrated into system design from the very beginning.
+- Amazon CloudFront provides a strong foundation for performance optimization and cost efficiency.
 
 #### AI Knowledge
 
 I gained a deeper understanding of:
 
-* LLM inference
-* Non-determinism
-* Guardrails
-* Structured outputs
+- Large Language Model inference
+- Non-determinism
+- AI Guardrails
+- Structured Outputs
 
 #### Cloud & AWS Knowledge
 
-* Amazon Q
-* Amazon Bedrock Guardrails
-* CloudFront
-* Origin Shield
-* OAC
-* HTTP/3
-* Edge Computing
+The event introduced several AWS technologies, including:
+
+- Amazon Quick
+- Amazon Bedrock Guardrails
+- Amazon CloudFront
+- Origin Shield
+- Origin Access Control (OAC)
+- HTTP/3
+- Edge Computing
 
 #### Practical Skills
 
-* Building AI production systems
-* Designing scalable architectures
-* Applying a business-first and context-driven mindset when working with AI
+- Designing production-ready AI systems.
+- Building scalable cloud architectures.
+- Applying a business-first and context-driven mindset when developing AI solutions.
 
-### Applications to Study and Work
+### Applying the Knowledge
 
-* Apply the Context Framework when using AI for learning and software development.
-* Use Amazon CloudFront to improve application performance and reduce costs.
-* Experiment with building a mini Multi-Agent System or a Personal Second AI Brain.
-* Integrate Bedrock Guardrails and structured outputs into AI applications.
-* Apply microservices, event-driven, and domain-driven architectural patterns to personal projects.
+After attending this event, I plan to:
+
+- Apply the Context Framework when using AI for software development and learning.
+- Use Amazon CloudFront to optimize application performance and reduce operational costs.
+- Build a small Multi-Agent system or a personal "Second AI Brain" project.
+- Integrate Amazon Bedrock Guardrails and structured outputs into future AI applications.
+- Adopt microservices, event-driven architecture, and domain-driven design principles in personal projects.
 
 ### Event Experience
 
-Attending **AWS Vietnam Community Day 2026** was an inspiring and valuable experience. The event not only introduced the latest developments in AI and Cloud Computing but also provided practical insights into how organizations deploy AI solutions in production environments.
+Participating in **AWS Vietnam Community Day 2026** was an inspiring and valuable experience. The event not only introduced the latest innovations in AI and Cloud Computing but also provided practical insights into how enterprise AI solutions are designed and deployed in production environments.
 
-#### Learning from Industry Experts
+### Learning from Industry Experts
 
-The speakers shared valuable real-world experiences related to:
+The speakers shared extensive real-world experience on topics such as:
 
-* Multi-Agent AI Systems
-* Agentic AI
-* CloudFront Architecture
-* Context Engineering
-* Enterprise Architecture
-* AI Security and Compliance
+- Multi-Agent AI Systems
+- Agentic AI
+- Amazon CloudFront Architecture
+- Context Engineering
+- Enterprise Cloud Architecture
+- AI Security and Compliance
 
-#### Expanding My AI Knowledge
+### Expanding My AI Knowledge
 
-I was particularly impressed by the following topics:
+The sessions that impressed me the most included:
 
-* LLM Non-Determinism
-* Context Is Everything
-* GenAI Guardrails
-* Agentic capabilities of Amazon Q
+- LLM Non-Determinism
+- Context Is Everything
+- Amazon Bedrock Guardrails
+- Agentic AI capabilities of Amazon Quick
 
-#### Technology Community Experience
+### Community Experience
 
-The event brought together developers, architects, and students who share a passion for technology, creating a highly engaging learning environment.
+The event brought together developers, solution architects, students, and cloud enthusiasts, creating an excellent environment for networking and knowledge sharing.
 
-Through networking and technical discussions, I learned:
+Through conversations and presentations, I learned more about:
 
-* Practical system design thinking
-* Challenges of deploying AI in enterprise environments
-* Experiences from Hackathons and rapid MVP development
+- Practical system design principles
+- Challenges of deploying AI in enterprise environments
+- Experiences from Hackathons and rapid MVP development
 
-#### Lessons Learned
+### Lessons Learned
 
-* Enterprise AI requires security to be considered from the start.
-* High-quality context is the key to unlocking AI's full potential.
-* Multi-agent systems are effective for solving complex problems.
-* Teamwork and communication are essential for successful projects.
+- Enterprise AI solutions should prioritize security from the very beginning.
+- High-quality context is the key to unlocking the full potential of AI.
+- Multi-Agent architectures are highly effective for solving complex business problems.
+- Teamwork and communication play a vital role in successful project delivery.
 
-> Overall, AWS Vietnam Community Day 2026 expanded my knowledge of AI and Cloud Computing while motivating me to continue exploring and developing innovative technology projects in the future.
+> Overall, **AWS Vietnam Community Day 2026** significantly expanded my knowledge of Artificial Intelligence, Cloud Computing, and AWS technologies. More importantly, it inspired me to continue exploring innovative cloud solutions and developing real-world AI applications in the future.
