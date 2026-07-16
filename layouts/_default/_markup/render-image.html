@@ -1,6 +1,36 @@
 {{- $u := .Destination -}}
-{{- if or (strings.HasPrefix $u "http://") (strings.HasPrefix $u "https://") (strings.HasPrefix $u "//") -}}
-<img src="{{ $u }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" />
+{{- $isDrive := strings.Contains $u "drive.google.com/file/d/" -}}
+{{- $isYouTube := or (strings.Contains $u "youtube.com") (strings.Contains $u "youtu.be") -}}
+{{- $isVideoFile := or (strings.HasSuffix $u ".mp4") (strings.HasSuffix $u ".webm") (strings.HasSuffix $u ".ogg") -}}
+
+{{- if $isDrive -}}
+  {{- $id := replaceRE "https?://drive\\.google\\.com/file/d/([^/]+).*" "$1" $u -}}
+  <iframe src="https://drive.google.com/file/d/{{ $id }}/preview" allow="autoplay" style="width: 100%; max-width: 100%; aspect-ratio: 16/9; border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);"></iframe>
+{{- else if $isYouTube -}}
+  {{- $id := "" -}}
+  {{- if strings.Contains $u "youtu.be/" -}}
+    {{- $id = replaceRE "https?://youtu\\.be/([^?#/]+).*" "$1" $u -}}
+  {{- else if strings.Contains $u "youtube.com/watch" -}}
+    {{- $id = replaceRE "https?://(?:www\\.)?youtube\\.com/watch\\?v=([^&#/]+).*" "$1" $u -}}
+  {{- else if strings.Contains $u "youtube.com/embed/" -}}
+    {{- $id = replaceRE "https?://(?:www\\.)?youtube\\.com/embed/([^?#/]+).*" "$1" $u -}}
+  {{- end -}}
+  <iframe src="https://www.youtube.com/embed/{{ $id }}" allowfullscreen style="width: 100%; max-width: 100%; aspect-ratio: 16/9; border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);"></iframe>
+{{- else if $isVideoFile -}}
+  {{- $src := $u -}}
+  {{- if not (or (strings.HasPrefix $u "http://") (strings.HasPrefix $u "https://") (strings.HasPrefix $u "//")) -}}
+    {{- $src = (strings.TrimPrefix "/" $u) | relURL -}}
+  {{- end -}}
+  {{- $ext := "mp4" -}}
+  {{- if strings.HasSuffix $u ".webm" }}{{ $ext = "webm" }}{{ else if strings.HasSuffix $u ".ogg" }}{{ $ext = "ogg" }}{{ end -}}
+  <video controls style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+    <source src="{{ $src }}" type="video/{{ $ext }}">
+    Your browser does not support the video tag.
+  </video>
 {{- else -}}
-<img src="{{ (strings.TrimPrefix "/" $u) | relURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" />
+  {{- if or (strings.HasPrefix $u "http://") (strings.HasPrefix $u "https://") (strings.HasPrefix $u "//") -}}
+    <img src="{{ $u }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" />
+  {{- else -}}
+    <img src="{{ (strings.TrimPrefix "/" $u) | relURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" />
+  {{- end -}}
 {{- end -}}
